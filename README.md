@@ -18,7 +18,7 @@ This project is a **basic 3D software renderer written in C**, designed to be li
 
 ## 🖥️ Screenshot
 
-> *([Render](https://github.com/gragi-1/Render_in_C/blob/main/Render3D.gif)*
+> ![Render](https://github.com/gragi-1/Render_in_C/blob/main/Render3D.gif)
 
 ---
 
